@@ -4,4 +4,4 @@ Welcome to **Fennova**, a software development organization focused on building 
 
 🛠 **Currently Under Development** – Stay tuned for updates!  
 
-📧 Contact: [contact@fennova.com](mailto:contact@fennova.com)  
+📧 Contact: [support@fennovatech.com](mailto:contact@fennova.com)  
